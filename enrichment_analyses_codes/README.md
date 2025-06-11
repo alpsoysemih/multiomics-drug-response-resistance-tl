@@ -21,7 +21,7 @@ Each drug belongs to one of the following inhibitor classes:
 ## Gene Selection Criteria
 
 Differentially expressed genes (DEGs) were selected using the following thresholds:
-- **|log₂ Fold Change| > threshold**
+- **|log₂ Fold Change| > 1**
 - **Adjusted p-value < 0.05**
 
 DEGs used in enrichment were derived from the best-performing **pan-drug models** trained using multi-omics data.
