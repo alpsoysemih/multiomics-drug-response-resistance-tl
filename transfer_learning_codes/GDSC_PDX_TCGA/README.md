@@ -1,4 +1,4 @@
-# Transfer Learning for Pan-Drug Response Prediction using Multi-Omics Integration
+# Transfer Learning for Pan-Drug Response Prediction using Multi-Omics Integration and Deep Neural Networks
 
 This repository contains deep learning models and analysis pipelines used for predicting drug response using transfer learning (TL) and multi-omics integration, inspired by the MOLI framework (Sharifi-Noghabi et al., 2019). It expands the scope of MOLI by incorporating drugs targeting four major pathways and testing across PDX and TCGA datasets.
 
