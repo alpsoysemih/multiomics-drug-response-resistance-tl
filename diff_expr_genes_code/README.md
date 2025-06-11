@@ -1,6 +1,6 @@
 # Differential Expression Analysis of GDSC Drugs by Inhibitor Class
 
-This repository contains the results of differential gene expression analyses performed on the Genomics of Drug Sensitivity in Cancer (GDSC) dataset. The aim is to identify drug-specific differentially expressed genes (DEGs) by comparing sensitive and resistant cancer cell lines for each drug within major drug classes.
+This code performs differential gene expression analyses with the Genomics of Drug Sensitivity in Cancer (GDSC) dataset. The aim is to identify drug-specific differentially expressed genes (DEGs) by comparing sensitive and resistant cancer cell lines for each drug within major drug classes.
 
 ## Drug Classes Analyzed
 
