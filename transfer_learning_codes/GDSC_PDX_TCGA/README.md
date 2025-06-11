@@ -121,7 +121,7 @@ Sharifi-Noghabi H, et al. (2019). MOLI: Multi-Omics Late Integration with Deep N
 **Semih Alpsoy**  
 Türkisch-Deutsche Universität, Department of Molecular Biotechnology  
 Acıbadem University, Department of Biostatistics and Bioinformatics  
-📧 *your-email@example.com*
+📧 *alpsoy@tau.edu.tr*
 
 ---
 
